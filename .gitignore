@@ -1,0 +1,16 @@
+# Go binaries
+terraform-provider-thales
+mock-api/mock-api
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
